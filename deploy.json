@@ -1,0 +1,331 @@
+{
+  "site": {
+    "title": "CEE Final Revision | Educator Sphere",
+    "logo": "logo.svg",
+    "logoAlt": "logo of educatorsphere"
+  },
+
+  "nav": {
+    "cta": { "label": "Demo Classes", "href": "#enroll" }
+  },
+
+  "hero": {
+    "eyebrow": "where learning begins with Top Educators",
+    "title": "CEE Final Revision",
+    "lead": "**CEE Final Revision** by Educator Sphere is a structured final-stage revision course featuring **1,500+ must-practice questions across 210 sets**, explained by top CEE educators. Revise key concepts, understand every option, avoid common mistakes, and practice similar question variations, all arranged according to the **CEE Micro Syllabus**.",
+    "cta": { "label": "Enroll Now", "href": "#contact" },
+    "image": "hero-section.jpg"
+  },
+
+  "about": {
+    "eyebrow": "About Us",
+    "title": "Learning that begins with top educators",
+    "image": "about-image.jpeg",
+    "imageAlt": "About Educator Sphere",
+    "paragraphs": [
+      "Educator Sphere brings experienced CEE educators together in one place, so students can revise smarter in the final stage of their preparation.",
+      "Every question is explained in recorded video format: why the correct option is right, why the others are wrong, and the common mistakes to avoid. Everything is arranged chapter by chapter according to the CEE Micro Syllabus."
+    ],
+    "apps": [
+      {
+        "prefix": "Download on",
+        "name": "Google Store",
+        "shouldShow":"True",
+        "href": "https://play.google.com/store/apps/details?id=com.educatorsphere.app",
+        "icon": "playstore.webp"
+      },
+      {
+        "prefix": "Download on",
+        "name": "App Store",
+        "shouldShow":"False",
+        "href": "https://apps.apple.com/app/id6816680878",
+        "icon": "applestore.webp"
+      }
+    ]
+  },
+
+  "enroll": {
+    "title": "Experience Before you enroll",
+    "subtitle": "Watch sample classes from our educators."
+  },
+
+  "teachers": [
+    {
+      "id": "t1",
+      "name": "Teacher Name 1",
+      "role": "Physics Educator",
+      "experience": "8+ years",
+      "students": "5,000+ students",
+      "image": "logo.svg",
+      "description": "Write the teacher's short bio here. Mention teaching style, strongest topics, and what students can expect from the classes."
+    },
+    {
+      "id": "t2",
+      "name": "Teacher Name 2",
+      "role": "Chemistry Educator",
+      "experience": "6+ years",
+      "students": "3,500+ students",
+      "image": "",
+      "description": "Write the teacher's short bio here. Mention teaching style, strongest topics, and what students can expect from the classes."
+    },
+    {
+      "id": "t3",
+      "name": "Teacher Name 3",
+      "role": "Zoology Educator",
+      "experience": "10+ years",
+      "students": "6,000+ students",
+      "image": "",
+      "description": "Write the teacher's short bio here. Mention teaching style, strongest topics, and what students can expect from the classes."
+    },
+    {
+      "id": "t4",
+      "name": "Teacher Name 4",
+      "role": "Botany Educator",
+      "experience": "7+ years",
+      "students": "4,200+ students",
+      "image": "",
+      "description": "Write the teacher's short bio here. Mention teaching style, strongest topics, and what students can expect from the classes."
+    },
+    {
+      "id": "t5",
+      "name": "Teacher Name 5",
+      "role": "MAT Educator",
+      "experience": "5+ years",
+      "students": "2,800+ students",
+      "image": "",
+      "description": "Write the teacher's short bio here. Mention teaching style, strongest topics, and what students can expect from the classes."
+    }
+  ],
+
+  "courses": [
+    {
+      "id": 1,
+      "title": "Kinematics - Set 1",
+      "subject": "Physics",
+      "language": "Nepali",
+      "teacherId": "t1",
+      "image": "logo.svg",
+      "youtubeUrl": "https://www.youtube.com/watch?v=M7lc1UVf-VE"
+    },
+    {
+      "id": 2,
+      "title": "Current Electricity - Set 4",
+      "subject": "Physics",
+      "language": "Nepali",
+      "teacherId": "t1",
+      "image": "",
+      "youtubeUrl": "https://www.youtube.com/watch?v=M7lc1UVf-VE"
+    },
+    {
+      "id": 3,
+      "title": "Chemical Bonding - Set 2",
+      "subject": "Chemistry",
+      "language": "Nepali",
+      "teacherId": "t2",
+      "image": "",
+      "youtubeUrl": "https://www.youtube.com/watch?v=M7lc1UVf-VE"
+    },
+    {
+      "id": 4,
+      "title": "Organic Chemistry - Set 6",
+      "subject": "Chemistry",
+      "language": "Nepali",
+      "teacherId": "t2",
+      "image": "",
+      "youtubeUrl": "https://www.youtube.com/watch?v=M7lc1UVf-VE"
+    },
+    {
+      "id": 5,
+      "title": "Animal Kingdom - MCQ",
+      "subject": "Zoology",
+      "language": "Nepali",
+      "teacherId": "t3",
+      "image": "",
+      "youtubeUrl": "https://www.youtube.com/watch?v=M7lc1UVf-VE"
+    },
+    {
+      "id": 6,
+      "title": "Human Physiology - Set 3",
+      "subject": "Zoology",
+      "language": "Nepali",
+      "teacherId": "t3",
+      "image": "",
+      "youtubeUrl": "https://www.youtube.com/watch?v=M7lc1UVf-VE"
+    },
+    {
+      "id": 7,
+      "title": "Plant Kingdom - MCQ",
+      "subject": "Botany",
+      "language": "Nepali",
+      "teacherId": "t4",
+      "image": "",
+      "youtubeUrl": "https://www.youtube.com/watch?v=M7lc1UVf-VE"
+    },
+    {
+      "id": 8,
+      "title": "Mental Agility Test - Set 1",
+      "subject": "MAT",
+      "language": "Nepali",
+      "teacherId": "t5",
+      "image": "",
+      "youtubeUrl": "https://www.youtube.com/watch?v=M7lc1UVf-VE"
+    }
+  ],
+
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "1. What is CEE Final Revision and what does it include?",
+        "a": [
+          {
+            "p": "CEE Final Revision is a structured final-stage revision course designed for focused CEE question practice. It includes:"
+          },
+          {
+            "ul": [
+              "**1,500+ must-practice questions**",
+              "**210 structured revision sets**",
+              "Recorded video explanations from top CEE educators",
+              "Related concept revision",
+              "Discussion of every option",
+              "Common mistakes and exam approaches",
+              "Similar question variations"
+            ]
+          }
+        ]
+      },
+      {
+        "q": "2. Which subjects are covered and how are the questions arranged?",
+        "a": [
+          { "p": "The course covers:" },
+          {
+            "ul": [
+              "Physics",
+              "Chemistry",
+              "Zoology",
+              "Botany",
+              "Mental Agility Test (MAT)"
+            ]
+          },
+          {
+            "p": "Questions are carefully selected for final revision and arranged chapter/topic-wise according to the **CEE Micro Syllabus**."
+          }
+        ]
+      },
+      {
+        "q": "3. Who explains the questions and what is covered in each explanation?",
+        "a": [
+          {
+            "p": "Each portion is explained by experienced CEE educators from their strongest subject areas. For each question, educators explain:"
+          },
+          {
+            "ul": [
+              "Why the correct option is right",
+              "Why other options are wrong",
+              "Related concepts",
+              "Common mistakes",
+              "Exam approach",
+              "Similar question variations"
+            ]
+          }
+        ]
+      },
+      {
+        "q": "4. Is this a complete syllabus course and who should join?",
+        "a": [
+          {
+            "p": "No. This is not a course for learning the entire syllabus from the beginning."
+          },
+          {
+            "p": "It is designed for students who have already studied the major concepts and now want focused final revision. Students who have not fully completed the syllabus can also use it to identify weak areas and revise important topics quickly."
+          },
+          {
+            "p": "It is suitable for CEE aspirants preparing for **MBBS, BDS, BSc Nursing, BPharm and other health-science programs covered by CEE**."
+          }
+        ]
+      },
+      {
+        "q": "5. How can I access the course?",
+        "a": [
+          {
+            "p": "All question explanations are available in **recorded video format**."
+          },
+          {
+            "p": "You can study through the **Educator Sphere App** using a mobile phone and stable internet connection. Lessons can be revisited during your active course-access period, subject to the platform's access policy."
+          }
+        ]
+      },
+      {
+        "q": "6. How can I enroll and pay?",
+        "a": [
+          {
+            "p": "You can enroll through the **Educator Sphere website or WhatsApp**. Available payment methods include:"
+          },
+          { "ul": ["**eSewa**", "**QR Payment**"] },
+          { "p": "Payment instructions will be shared during enrollment." }
+        ]
+      }
+    ]
+  },
+
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have a question before you enroll? Reach out and we will help you.",
+    "whatsapp": "9779767478111",
+    "items": [
+      {
+        "icon": "fa-brands fa-whatsapp",
+        "label": "WhatsApp",
+        "value": "+977 9767478111",
+        "href": "https://wa.me/9779767478111"
+      },
+      {
+        "icon": "fa-solid fa-phone",
+        "label": "Phone",
+        "value": "+977 9767478111",
+        "href": "tel:+9779767478111"
+      },
+      {
+        "icon": "fa-solid fa-envelope",
+        "label": "Email",
+        "value": "support@educatorsphere.com",
+        "href": "support@educatorsphere.com"
+      },
+      {
+        "icon": "fa-solid fa-location-dot",
+        "label": "Location",
+        "value": "Kathmandu, Nepal",
+        "href": ""
+      }
+    ],
+    "form": {
+      "fields": [
+        {
+          "key": "name",
+          "label": "Your name",
+          "type": "text",
+          "placeholder": "Full name"
+        },
+        {
+          "key": "phone",
+          "label": "Phone number",
+          "type": "tel",
+          "placeholder": "98XXXXXXXX"
+        },
+        {
+          "key": "message",
+          "label": "Message",
+          "type": "textarea",
+          "placeholder": "How can we help?"
+        }
+      ],
+      "submit": "Send on WhatsApp",
+      "error": "Please fill in all fields.",
+      "template": "Hello Educator Sphere,\nName: {name}\nPhone: {phone}\n\n{message}"
+    }
+  },
+
+  "footer": {
+    "text": "© Educator Sphere.com"
+  }
+}
